@@ -38,18 +38,4 @@ Trabalho com sistemas corporativos em .NET e construo projetos pessoais exploran
 
 ---
 
-### 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Giro Rápido](https://github.com/NICHOLAST0RRES/SEU-REPO) | SaaS multi-tenant para lavanderias, com Clean Architecture e mensageria assíncrona | .NET · PostgreSQL · RabbitMQ |
-| [WebApp Clínica Médica](https://github.com/NICHOLAST0RRES/WebAppClinicaMedica) | Gestão de clínica odontológica com domínio rico, soft delete e auditoria via interceptors | .NET 10 · EF Core · PostgreSQL |
-| [Farmácia PaguePouco](https://github.com/NICHOLAST0RRES/SEU-REPO) | API REST com autenticação JWT e migrations versionadas com Flyway | Java 17 · Spring Boot · MySQL |
-
----
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=NICHOLAST0RRES&show_icons=true&hide_border=true&theme=github_dark&hide=contribs)
-
-</div>
