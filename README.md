@@ -34,7 +34,7 @@ Trabalho com sistemas corporativos em .NET e construo projetos pessoais exploran
 ### 🎓 Certificações
 
 - **Microsoft Azure Fundamentals (AZ-900)**
-- **AWS Certified AI Practitioner (AIF-C01)** — em andamento
+- **AWS Certified AI Practitioner (AIF-C01)**
 
 ---
 
